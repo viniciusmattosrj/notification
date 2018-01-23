@@ -1,0 +1,32 @@
+{
+    "name": "viniciusmattosrj/composer-pratica",
+    "description": "This is a libraty that uses composer as the basis for generation email notifications",
+    "type":"library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fernanda Moreira",
+            "email": "fernandamsouza.rh@gmail.com",
+            "homepage": "http://www.coachfernandamoreira.com.br",
+            "role": "CEO and Founder"
+        },
+        {
+            "name": "Vinicius Mattos",
+            "email": "vinimattos.rj@gmail.com",
+            "homepage": "http://www.coachfernandamoreira.com.br",
+            "role": "CTO"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "6.0.1"
+    },
+    "config":{
+    	"vendor-dir":"lib_ext"
+    },
+    "autoload":{
+        "psr-4":{
+            "Notification\\":"_app"
+        }
+    }
+}
