@@ -27,7 +27,7 @@ Note que toda a configuração do envio do e-mail está utilizando o método má
 
 ### Developers
 * [Vinicius Mattos] - Desenvolvedor desta biblioteca e tutor do curso Composer na Prática!
-* [Fernanda Moreire] - CEO and Founder FM Coaching e DH
+* [Fernanda Moreira] - CEO and Founder FM Coaching e DH
 * [FM Coaching e DH] - Site oficial da sua escola de treinamento e desenvolvimento
 * [phpMailer] - Lib to send E-mail
 
