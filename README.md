@@ -26,7 +26,7 @@ $email->sendEmail("SUbject", "Content", "reply@email.com", "Replay Name", "addre
 Note que toda a configuração do envio do e-mail está utilizando o método mágico construtor! Uma vez invocado o método construtor dentro da sua aplicação, seu sistema estará apto a efetuar os disparos.
 
 ### Developers
-* [Vinicius Mattos] - Desenvolvedor desta biblioteca e tutor do curso Composer na Prática!
+* [Vinicius Mattos] - Desenvolvedor desta biblioteca
 * [Fernanda Moreira] - CEO and Founder FM Coaching e DH
 * [FM Coaching e DH] - Site oficial da sua escola de treinamento e desenvolvimento
 * [phpMailer] - Lib to send E-mail
