@@ -1,5 +1,5 @@
 {
-    "name": "viniciusmattosrj/composer-pratica",
+    "name": "viniciusmattosrj/notification",
     "description": "This is a libraty that uses composer as the basis for generation email notifications",
     "type":"library",
     "license": "MIT",
